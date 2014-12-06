@@ -1,9 +1,6 @@
 build/node_modules/
 build/bower_components/
 
-php/config.php
-data/config.php
-
 uploads/import/*
 uploads/big/*
 uploads/thumb/*
